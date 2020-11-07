@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-read.py
-02-22-19
-jack skrable
-"""
+
 
 import os
 import sys
