@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-main.py
-03-29-19
-jack skrable
-"""
+
 
 # Library imports
 import time
