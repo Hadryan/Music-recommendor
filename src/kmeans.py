@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-kmeans.py
-04-08-19
-jack skrable
-"""
+
 
 import numpy as np
 import seaborn as sns
