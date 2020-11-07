@@ -15,6 +15,8 @@ tar -xvzf millionsongsubset_full.tar.gz
 ```
 Alternatively, visit the Million Song Dataset's site to download the file and unzip it manually.
 
+```mkdir model && mkdir logs```
+
 Training the neural network may take some trial and error based on the hardware available. Running 
 ```./lib/main.py``` will attempt to train the network using the full dataset and default hyperparameters.
 
