@@ -7,7 +7,7 @@ Install dependencies with
 pip install -r requirements.txt
 ```
 
-To get the dataset, you can either run ```setup.sh``` or the following commands
+To get the dataset, you can run  the following commands
 ```
 mkdir data && cd data
 wget http://static.echonest.com/millionsongsubset_full.tar.gz
