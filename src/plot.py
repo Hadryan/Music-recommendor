@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-plot.py
-04-22-19
-jack skrable
-"""
+
 
 import sys
 import os
