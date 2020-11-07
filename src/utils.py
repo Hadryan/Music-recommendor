@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-utils.py
-04-10-19
-jack skrable
-"""
+
 
 import os
 import argparse
