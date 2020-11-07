@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-api.py
-04-14-19
-jack skrable
-"""
+
 
 import os
 import json
