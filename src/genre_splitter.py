@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # coding: utf-8
-"""
-genre_splitter.py
-04-17-19
-jack skrable
-"""
+
 
 import re
 import numpy as np
